@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Garaža</string>
+    <string name="sent">poslano</string>
+    <string name="error">napaka</string>
+</resources>
